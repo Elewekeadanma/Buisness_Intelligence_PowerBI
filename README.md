@@ -6,13 +6,11 @@ Compare regional performance,
 Analyze product level trends, 
 Identify high-value customers
 
-One visualization that is almost always used in most dashboards is the Card. Below there are 4 cards in the image
+One visualization that is almost always used in most dashboards is the Card. The card highlights a single, important metric so that it stands out immediately. Below there are 4 cards in the image
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9a17b5d1-612d-47d8-b8bb-c9a638a7ca6f" />
 
+One shows the revenue, the second, the Total Profit, the third, the total Orders and the fourth, the Return Rate.
 
-
-
-gives an overall view
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/3a62a7c3-2123-4bd5-89ac-450cba42639c" />
 
