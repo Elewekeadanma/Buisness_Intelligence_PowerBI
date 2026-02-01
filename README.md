@@ -5,7 +5,8 @@ The project aims to monitor key performance indicators—such as sales, revenue,
 - Compare regional performance
 - Analyze product level trends 
 - Identify high-value customers
-
+## Software
+- Power BI
 One visualization that is almost always used in most dashboards is the **CARD**. The card highlights a single, important metric so that it stands out immediately. Below are 4 cards
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9a17b5d1-612d-47d8-b8bb-c9a638a7ca6f" />
