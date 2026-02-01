@@ -5,8 +5,6 @@ The project aims to monitor key performance indicators—such as sales, revenue,
 - Compare regional performance
 - Analyze product level trends 
 - Identify high-value customers
-## Software
-- Power BI
 
 ### Tools & Technologies
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
