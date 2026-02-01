@@ -45,7 +45,7 @@ The second map visual shows Europe and countries in Europe with their correspond
 Another visualization in Power Bi is GUAGE charts. A gauge visual in Power BI is designed to show progress toward a target in a simple, intuitive way. It’s one of the clearest visuals for communicating performance status at a glance and it is used for displaying a single KPI (e.g., sales, revenue, profit, utilization), showing how close the current value is to a goal, highlighting whether performance is low, on track, or exceeding expectations and providing a quick, dashboard‑friendly indicator of status
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/3272da38-fc0f-4b33-94c4-d8fd628fe6f6" />
-The chart tells us that we are yet to hit our Monthly targets and Monthly Revenue for Bike Wash - Dissolver even though the Monthly Profit has been met. The unmet targets are shown in red while the met target is shown in black.
+The chart tells us that we are yet to hit our Monthly targets and Monthly Revenue for Bike Wash - Dissolver even though the Monthly Profit has been met. The unmet targets are shown in red while the met target is shown in black. Using the slicer beside the guage chart, we can find out which products are hitting their targets or not. 
 
 
 
