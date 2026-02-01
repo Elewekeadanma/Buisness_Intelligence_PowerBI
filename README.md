@@ -29,9 +29,9 @@ Also, using the Top N filter, the matrix showed only the Top 10 highest orders s
 A donut visual in Power BI is designed to show how a whole is divided into parts, while keeping the focus on the proportions of each category.
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
+Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
+The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the card and table.
 
-<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/3466464e-8ba7-417f-bfeb-c0fcd9a468d3" />
-The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the card and table. Using the donut charts beside the table, we can find the top customers based on Income level and Occupation.
 
 The following images are map visuals to show orders by geographical locations.
 <img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/34cef23c-271b-4586-a522-d8da68719d62" />
