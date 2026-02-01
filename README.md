@@ -18,3 +18,13 @@ Also, using the Top N filter, the matrix showed only the Top 10 highest orders s
 
 <img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/3466464e-8ba7-417f-bfeb-c0fcd9a468d3" />
 The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the card and table. Using the donut charts beside the table, we can find the top customers based on Income level and Occupation.
+
+The following images are map visuals to show orders by geographical locations.
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/34cef23c-271b-4586-a522-d8da68719d62" />
+
+This image shows all the geographical locartions, bubble size indicating the number of orders for each region.
+The second image shows Europe and countries in Europe with their corresponding total number of orders, United Kingdom having a total of 2771 orders.
+
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/efc472fc-96ad-4205-bba7-c6441d9c3a4b" />
+
+
