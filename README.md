@@ -26,6 +26,10 @@ A matrix visual in Power BI is designed to display data in a structured, pivotâ€
 Looking at the highlighted Matrix, the formatting in the Orders bars shows the relative differences in the number of orders for each product and thus we can decide which product we hould make sure is always available. For the Return rate bar, the highest values had a very red color to highlight the bad ones.
 Also, using the Top N filter, the matrix showed only the Top 10 highest orders sold, with Water Bottles at the top.
 
+A donut visual in Power BI is designed to show how a whole is divided into parts, while keeping the focus on the proportions of each category.
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
+
+
 <img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/3466464e-8ba7-417f-bfeb-c0fcd9a468d3" />
 The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the card and table. Using the donut charts beside the table, we can find the top customers based on Income level and Occupation.
 
