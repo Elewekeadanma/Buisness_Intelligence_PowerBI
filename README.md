@@ -21,7 +21,7 @@ Another visualization is the **KPI** card. It is designed to instantly communica
 
                                                                                                                                                                           
 From the image, we can see that the Monthly Revenue KPI card shows that the current month's revenue surpassed last month's revenue by 3.31%.
-Total orders however reduced from 2165 to 2146 and that is why it is red. The returns was also good, it reduced from 169 to 166.
+Total orders however reduced from 2165 to 2146 and that is why it is red. There was also a reduction in returns from 169 to 166 which, in this case is a good thing.
 
 A **MATRIX** visual in Power BI is designed to display data in a structured, pivot‑table‑style layout, making it ideal for exploring data across multiple dimensions.
  
