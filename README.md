@@ -10,8 +10,10 @@ The project aims to monitor key performance indicators—such as sales, revenue,
 
 ### Tools & Technologies
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+
+#### CARD
   
-One visualization that is almost always used in most dashboards is the **CARD**. The card highlights a single, important metric so that it stands out immediately. Below are 4 cards
+One visualization that is almost always used in most dashboards is the **card**. The card highlights a single, important metric so that it stands out immediately. Below are 4 cards
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9a17b5d1-612d-47d8-b8bb-c9a638a7ca6f" />
 
