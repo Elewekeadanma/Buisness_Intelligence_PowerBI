@@ -33,7 +33,7 @@ A **MATRIX** visual in Power BI is designed to display data in a structured, piv
  
 <img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/5d2febd8-7951-45f3-be91-357b15dfaddf" />
 
-Looking at the highlighted Matrix, the formatting in the Orders bars shows the relative differences in the number of orders for each product and thus we can decide which product we hould make sure is always available. For the Return rate bar, the highest values had a very red color to highlight the bad ones.
+Looking at the highlighted Matrix, the formatting in the Orders bars shows the relative differences in the number of orders for each product and thus we can decide which product we should make sure is always available. For the Return rate bar, the highest values had a very red color to highlight the bad ones.
 Also, using the Top N filter, the matrix showed only the Top 10 highest orders sold, with Water Bottles at the top.
 
 ________________________________________________________________________________________________________________________________________________________________________________________
