@@ -35,6 +35,7 @@ And then all three product tables were connected in a snowflake schema as highli
 •	Fact Tables: Sales Data, Returns Data
 •
 Dimension Tables: Territory Lookup, Customer Lookup, Calendar Lookup, Product Lookup,  Product Categories Lookup, Product Subcategories Lookup,
+
 As shown below, the product lookup table also contains a foreign key of its own called product subcategory key and the product subcategory table also has a foreign key called product category key. This chain of relationships where we connect dimension tables to sub dimension tables gives us our Snowflake schema.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
@@ -56,7 +57,9 @@ ________________________________________________________________________________
 Data Cleaning and Transformation 
 Column headers were promoted
 Product Key and ProductSubcategorykey were changed from number to text fields
+
 ProductCost and ProductPrice columns were changed from decimal to currencies
+
 A redundant column ProductSize was also removed
 A new column SKU Type was added by extracting all characters before the dash in the Product SKU column, then the SKU Type was calculated to return all characters before the second dash, instead of the first
 The zeros (0) in the Product Style column was replaced with “NA”
