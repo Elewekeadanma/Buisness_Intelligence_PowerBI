@@ -11,22 +11,30 @@ The project aims to monitor key performance indicators—such as sales, revenue,
 ### Tools & Technologies
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
+| Tool | Use |
+|--------|------:|
+| Power BI Desktop | Data modeling, dashboard creation |
+| Power Query | Data transformation and cleaning |
+| DAX | Business logic and KPIs |
+| Power BI Service | For live publishing, sharing, and cloud-based report consumption |
+
 ________________________________________________________________________________________________________________________________________________________________________________________
-  
-One visualization that is almost always used in most dashboards is the **CARD**. The card highlights a single, important metric so that it stands out immediately. Below are 4 cards
+Data Source 
+: A folder of raw CSV files, which contain information about transaction
+and return records, products, customers, and sales territories.
 
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/9a17b5d1-612d-47d8-b8bb-c9a638a7ca6f" />
+Data Model Overview
+The Power BI data model was built using  Snowflake Schema principles for performance and scalability:
+A star schema was created first by creating relationships between the Sales, Calendar, customer, Product and Territories tables as shown below. 
 
-One shows the revenue, the second, the Total Profit, the third, the total Orders and the fourth, the Return Rate.
+__<img width="975" height="458" alt="image" src="https://github.com/user-attachments/assets/3574de97-8d40-4df0-8a50-830e5751818b" />
+_______________________________________________________________________________________________________________________________________________________________________________________
+And then all three product tables were connected in a snowflake schema as highlighted below
+<img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/07896820-8a76-4720-ba84-baebe137f3a1" />
 
-_________________________________________________________________________________________________________________________________________________________________________________________
-Another visualization is the **KPI** card. It is designed to instantly communicate performance against a target, making it one of the most effective visuals for executive‑level dashboards.
-
-<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/327260c3-6f51-4a25-8e0d-7369a9cc9e82" />
-
-                                                                                                                                                                          
-From the image, we can see that the Monthly Revenue KPI card shows that the current month's revenue surpassed last month's revenue by 3.31%.
-Total orders however reduced from 2165 to 2146 and that is why it is red. There was also a reduction in returns from 169 to 166 which, in this case is a good thing.
+•	Fact Tables: Sales Data, Returns Data
+•	Dimension Tables: Territory Lookup, Customer Lookup, Calendar Lookup, Product Lookup,  Product Categories Lookup, Product Subcategories Lookup,
+As shown below, the product lookup table also contains a foreign key of its own called product subcategory key and the product subcategory table also has a foreign key called product category key. This chain of relationships where we connect dimension tables to sub dimension tables gives us our Snowflake schema.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 A **MATRIX** visual in Power BI is designed to display data in a structured, pivot‑table‑style layout, making it ideal for exploring data across multiple dimensions.
