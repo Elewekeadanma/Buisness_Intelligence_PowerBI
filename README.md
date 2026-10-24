@@ -38,14 +38,47 @@ Dimension Tables: Territory Lookup, Customer Lookup, Calendar Lookup, Product Lo
 As shown below, the product lookup table also contains a foreign key of its own called product subcategory key and the product subcategory table also has a foreign key called product category key. This chain of relationships where we connect dimension tables to sub dimension tables gives us our Snowflake schema.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
-A **MATRIX** visual in Power BI is designed to display data in a structured, pivot‑table‑style layout, making it ideal for exploring data across multiple dimensions.
- 
-<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/5d2febd8-7951-45f3-be91-357b15dfaddf" />
+Key Columns Include:
+•	SalesTerritoryKey
+•	CustomerKey
+•	ProductKey
+•	ProductCategoriesKey
+•	Product SubcategoriesKey
 
-Looking at the highlighted Matrix, the formatting in the Orders bars shows the relative differences in the number of orders for each product and thus we can decide which product we should make sure is always available. For the Return rate bar, the highest values had a very red color to highlight the bad ones.
-Also, using the Top N filter, the matrix showed only the Top 10 highest orders sold, with Water Bottles at the top.
+Hidden keys
+Also note that fields were hidden from report view so that I don’t make a mistake of filtering on a foreign key from a data table instead of a primary key from a lookup table.
+From the Sales data table, customer key, order date, product key, stock date, and territory key.
+For returns it'll be our product key, return date and territory key.
+For product table, it will  be the subcategory key.
+For product subcategories table, Product category key is a foreign key.
 
 ________________________________________________________________________________________________________________________________________________________________________________________
+Data Cleaning and Transformation 
+Column headers were promoted
+Product Key and ProductSubcategorykey were changed from number to text fields
+ProductCost and ProductPrice columns were changed from decimal to currencies
+A redundant column ProductSize was also removed
+A new column SKU Type was added by extracting all characters before the dash in the Product SKU column, then the SKU Type was calculated to return all characters before the second dash, instead of the first
+The zeros (0) in the Product Style column was replaced with “NA”
+The Domain Name column was added by duplicating the email address column, remove all text/characters except the domain name and capitalizing.
+The following columns were added to the calendar table
+Month Name (e.g March), Month Number (e.g “1”)
+Start of Year (e.g. “1/1/2020”), Year (e.g “2020”)
+A conditional column “Quantity Type” was added in the Sales table with 2 options Single Item , Multiple Items
+A date hierarchy column was created with the hierarchy in the following order:
+•	Start of year
+•	start of month
+•	start of week
+•	date
+
+A column “Education Category  “was created using the Switch function.
+A column SKU Category was created by returning any number of characters before the first hyphen in the Product SKU column.
+A new column “Birth Year” was created in the Customer Lookup to extract only the year from the Birthdate column.
+
+
+
+
+
 A **DONUT** visual in Power BI is designed to show how a whole is divided into parts, while keeping the focus on the proportions of each category.
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
