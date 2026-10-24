@@ -33,7 +33,8 @@ And then all three product tables were connected in a snowflake schema as highli
 <img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/07896820-8a76-4720-ba84-baebe137f3a1" />
 
 •	Fact Tables: Sales Data, Returns Data
-•	Dimension Tables: Territory Lookup, Customer Lookup, Calendar Lookup, Product Lookup,  Product Categories Lookup, Product Subcategories Lookup,
+•
+Dimension Tables: Territory Lookup, Customer Lookup, Calendar Lookup, Product Lookup,  Product Categories Lookup, Product Subcategories Lookup,
 As shown below, the product lookup table also contains a foreign key of its own called product subcategory key and the product subcategory table also has a foreign key called product category key. This chain of relationships where we connect dimension tables to sub dimension tables gives us our Snowflake schema.
 
 _________________________________________________________________________________________________________________________________________________________________________________________
