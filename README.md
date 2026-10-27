@@ -59,13 +59,13 @@ Also note that some fields containing  were hidden from report view so that I do
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 ### Data Cleaning and Transformation 
-- Column headers were promoted
-- Product Key and ProductSubcategorykey were changed from number to text fields
- ProductCost and ProductPrice columns were changed from decimal to currencies
-
-A redundant column ProductSize was also removed
-A new column SKU Type was added by extracting all characters before the dash in the Product SKU column, then the SKU Type was calculated to return all characters before the second dash, instead of the first
-The zeros (0) in the Product Style column was replaced with “NA”
+- Column headers were promoted.
+- Product Key and ProductSubcategorykey were changed from number to text fields.
+- ProductCost and ProductPrice columns were changed from decimal to currencies.
+- A redundant column ProductSize was also removed.
+- A new column SKU Type was added by extracting all characters before the dash in the Product SKU column, then the SKU Type was calculated to return all characters before the second dash, instead of the first.
+- The zeros (0) in the Product Style column was replaced with “NA”.
+- 
 The Domain Name column was added by duplicating the email address column, remove all text/characters except the domain name and capitalizing.
 The following columns were added to the calendar table
 Month Name (e.g March), Month Number (e.g “1”)
