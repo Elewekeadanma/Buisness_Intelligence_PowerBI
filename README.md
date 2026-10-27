@@ -40,13 +40,13 @@ As shown below, the product lookup table also contains a foreign key of its own 
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 Key Columns Include:
-•	SalesTerritoryKey
-•	CustomerKey
-•	ProductKey
-•	ProductCategoriesKey
-•	Product SubcategoriesKey
+*SalesTerritoryKey*
+*CustomerKey*
+*ProductKey*
+*ProductCategoriesKey*
+*Product SubcategoriesKey*
 
-Hidden keys
+**Hidden keys**
 Also note that fields were hidden from report view so that I don’t make a mistake of filtering on a foreign key from a data table instead of a primary key from a lookup table.
 From the Sales data table, customer key, order date, product key, stock date, and territory key.
 For returns it'll be our product key, return date and territory key.
