@@ -226,3 +226,5 @@ The dashboard provides a detailed view of the customer base by combining custome
 * Top customer: The highest-revenue customer shown generated approximately $12.4K from only 6 orders, indicating a high average order value.
 * Customer activity: The customer trend fluctuates considerably across the displayed 2021–2022 period, with several sharp peaks and declines, suggesting that customer activity is not uniform over time.
 
+**Recommendations**
+Focus marketing and retention efforts on Average-income and Professional customer segments, since these groups generate the highest order volumes. Introduce loyalty or personalized offers for high-value customers, investigate periods of declining customer activity, and use cross-selling or product bundles to increase revenue per customer. The High-income segment should also be examined to determine why its order volume is substantially lower.
