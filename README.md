@@ -125,7 +125,7 @@ Product highlights
 Overall takeaway
 Business performance is positive, with $24.9M in revenue, $10.5M in profit, and revenue continuing to grow. Despite a slight decline in monthly order volume, monthly revenue increased 3.31%, which could indicate higher revenue per order. Returns remain relatively low overall at 2.2%, although several helmet products have return rates above 3% and could be investigated further. Accessories are the strongest category by order volume.
 
-## The Map dashboard
+## Map Dashboard
 This **Map dashboard** provides a geographic view of total orders, showing how order volume is distributed across the main sales regions and countries.
 <img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/34cef23c-271b-4586-a522-d8da68719d62" />
 
@@ -144,6 +144,20 @@ Order activity is geographically diversified, but the United States appears to b
 #### Recommendations
 
 The geographical analysis shows that order activity is concentrated primarily in the United States, with Australia also representing a significant market. The business should protect performance in these strong markets while investigating growth opportunities across the United Kingdom, France, and Germany. Further analysis of revenue, profitability, average order value, and returns by country is recommended before making regional investment decisions. 
+
+
+## Product Detail Dashboard
+This page is a Product Detail page, set the page type to Drill through and configured  drill through from Product Name. What this means is that users can right-click any instance of product name and use the Drill through option to navigate straight to the Product Detail report filtered on the product (in this case “Sport-100 Helmet, Black”)
+
+<img width="799" height="502" alt="image" src="https://github.com/user-attachments/assets/94235ca8-a07c-4651-a9c5-4f19e690a7da" />
+
+Key performance summary
+•	Monthly Orders: 202, compared with a target of 213. Orders are slightly below target by 11 orders, or about 5.2%.
+•	Monthly Revenue: $6,796, compared with a target of approximately $7.18K. Revenue is about $384 below target, roughly 5.3%.
+•	Monthly Profit: $4,367. The gauge indicates strong profit performance, although the target label shown on the visual appears inconsistent at $213, so that target should be verified.
+
+
+
 
 
 
