@@ -70,7 +70,7 @@ ________________________________________________________________________________
 Month Name (e.g March), Month Number (e.g “1”)
 Start of Year (e.g. “1/1/2020”), Year (e.g “2020”)
 - A conditional column “Quantity Type” was added in the Sales table with 2 options Single Item , Multiple Items
-- A date hierarchy column was created with the hierarchy in the following order:
+- A date hierarchy column was created with the hierarchy in the following order:  
 •	Start of year  
 •	start of month  
 •	start of week  
@@ -81,6 +81,11 @@ Start of Year (e.g. “1/1/2020”), Year (e.g “2020”)
 - A column "Birth Year" was created in the Customer Lookup to extract only the year from the Birthdate column.
 
 
+## Analytical Approach  
+The dashboard is designed into 4 tabs.
+
+## Executive Dashboard  
+This dashboard page gives an executive overview of Adventure Works sales performance, combining revenue, profitability, order volume, returns, trends, product performance, and category performance.
 
 
 
