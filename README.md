@@ -87,6 +87,7 @@ The dashboard is designed into 4 tabs.
 ## Executive Dashboard  
 This dashboard page gives an executive overview of Adventure Works sales performance, combining revenue, profitability, order volume, returns, trends, product performance, and category performance.
 
+<img width="1357" height="800" alt="image" src="https://github.com/user-attachments/assets/de757577-ac54-4b19-9889-285143fc44c4" />
 
 
 A **DONUT** visual in Power BI is designed to show how a whole is divided into parts, while keeping the focus on the proportions of each category.
