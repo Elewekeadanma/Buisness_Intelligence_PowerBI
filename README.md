@@ -154,33 +154,68 @@ This page is a Product Detail page, set the page type to Drill through and confi
 
 ### Key performance summary
 
-| KPI | Current | Target | Assessment
-|--------|------:||--------|------:|
-| Monthly Orders | 404 | 438 | ~92.2% of target
-| Power Query | Data transformation and cleaning |
-| DAX | Business logic and KPIs |
-| Power BI Service | For live publishing, sharing, and cloud-based report consumption |
+<img width="580" height="172" alt="image" src="https://github.com/user-attachments/assets/22ba4975-46ff-424d-a193-813bc14e76b2" />
+
+### Key business insights
+
+**Orders are close to target, but there is still a gap.**
+
+So the product needs approximately 8.4% more orders relative to the current 404 orders to reach the displayed target. This is not a severe underperformance, but there is room for improvement.
+
+**Revenue is even closer to target**
+Monthly Revenue is $4,067 against approximately $4,290.
+
+That means revenue attainment is about:
+
+$4,067 ÷ $4,290 = 94.8%
+
+Only approximately:
+
+$4,290 - $4,067 = $223
+
+of additional monthly revenue is required to reach the target.
+
+This is a positive sign because revenue is proportionally closer to target than order volume.
+
+**Profit has generally improved during the period**
+The Profit Trending chart shows profit rising approximately from:
+
+January: $2.17K
+February: $2.24K
+March: $2.39K
+April: $2.47K
+May: $2.44K
+June: $2.55K
+
+The general direction is upward.
+
+There is a small decline from April to May, followed by the strongest displayed value in June.
+
+From January to June, the increase is roughly:
+
+($2,550 - $2,170) ÷ $2,170 ≈ 17.5%
+
+So profitability appears to have improved materially during the six-month period.
+
+**Order volume is also trending upward**
+The lower orders chart shows approximately:
+
+344 → 352 → 359 → 391 → 391 → 393/394
+
+The strongest improvement occurs between February and March.
+
+This suggests that the improving profit trend is accompanied by increasing order volume rather than coming solely from price or margin changes.
+
+However, the latest monthly orders shown on the gauge are 404, while the trend chart appears to end around the low 390s. I would verify whether the visuals are operating under the same date/filter context.
+
+Insights
+. Investigate the order shortfall
+Investigate the May profit decline
+Monitor returns alongside growth
 
 
-|KPI| Current | Target | Assessment
-Monthly Orders | 404 | 438 | ~92.2% of target
-Monthly Revenue | $4,067 | $4.29K | ~94.8% of target
+## Customer Detail Dashboard
 
-
-
-
-
-* Monthly Orders: 202, compared with a target of 213. Orders are slightly below target by 11 orders, or about 5.2%.
-* Monthly Revenue: $6,796, compared with a target of approximately $7.18K. Revenue is about $384 below target, roughly 5.3%.
-* Monthly Profit: $4,367. The gauge indicates strong profit performance, although the target label shown on the visual appears inconsistent at $213, so that target should be verified.
-
-
-
-
-
-
-Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
-The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the textbox and table.
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 A **MAP** visual in Power BI is designed to show data in a geographic context, making it easy to understand how metrics vary across locations. The map visual, in this case was used to visualize data by continent and country and to compare performance across regions.
