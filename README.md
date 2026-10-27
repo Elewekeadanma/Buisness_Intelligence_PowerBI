@@ -27,8 +27,9 @@ The Power BI data model was built using  Snowflake Schema principles for perform
 A **Star** schema was created first by creating relationships between the Sales, Calendar, customer, Product and Territories tables as shown below. 
 
 <img width="975" height="458" alt="image" src="https://github.com/user-attachments/assets/3574de97-8d40-4df0-8a50-830e5751818b" />
-_______________________________________________________________________________________________________________________________________________________________________________
-And then all three product tables were connected in a **Snowflake** schema as highlighted below
+________________________________________________________________________________________________________________________________________________________________
+
+Then all three product tables were connected in a **Snowflake** schema as highlighted below
 <img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/07896820-8a76-4720-ba84-baebe137f3a1" />
 
 **Fact Tables**: Sales Data, Returns Data
