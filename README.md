@@ -99,7 +99,7 @@ Revenue is trending upward.
 
 The revenue trend shows overall growth from 2020 through 2022. After fluctuations during 2020 and early 2021, revenue accelerates significantly from mid-2021, reaching approximately $1.8M per month toward the end of the period.
 
-Accessories generate the most orders.
+**Accessories** generate the most orders.
 Order volume by category is:
 1.	Accessories: 17K
 2.	Bikes: 14K
@@ -107,6 +107,31 @@ Order volume by category is:
 Accessories therefore lead order volume by a noticeable margin.
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
+
+Latest monthly performance
+The bottom KPIs indicate:
+This section provides a month-over-month performance snapshot across revenue, orders, and returns:
+•	Monthly Revenue: Revenue reached $1.83M, up from $1.77M in the previous month, representing 3.31% growth.
+•	Monthly Orders: Orders declined slightly to 2,146, compared with 2,165 in the previous month, a 0.88% decrease.
+•	Monthly Returns: Returns decreased from 169 to 166, meaning 3 fewer returns than the previous month.
+
+Key takeaway
+Overall, the month shows positive revenue growth despite slightly fewer orders. Revenue increased by 3.31% while order volume fell by less than 1%. Returns also declined slightly, which is favorable.
+Note: The Monthly Returns card displays “+1.78%”, but because returns decreased from 169 to 166, the direction appears inconsistent. If the measure is intended to show month-over-month change in the number of returns, it would be approximately -1.78%.
+
+Product highlights
+•	Most Ordered Product Type: Tires and Tubes
+•	Most Returned Product Type: Bib-Shorts
+Overall takeaway
+Business performance is positive, with $24.9M in revenue, $10.5M in profit, and revenue continuing to grow. Despite a slight decline in monthly order volume, monthly revenue increased 3.31%, which could indicate higher revenue per order. Returns remain relatively low overall at 2.2%, although several helmet products have return rates above 3% and could be investigated further. Accessories are the strongest category by order volume.
+
+## The Map dashboard
+
+
+
+
+
+
 
 Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
 The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the textbox and table.
