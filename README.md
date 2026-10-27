@@ -141,6 +141,11 @@ This **Map dashboard** provides a geographic view of total orders, showing how o
 #### Key takeaway
 Order activity is geographically diversified, but the United States appears to be the strongest market by order volume. Australia is another significant market, while European orders are spread across the United Kingdom, France, and Germany.
 
+#### Recommendations
+
+The geographical analysis shows that order activity is concentrated primarily in the United States, with Australia also representing a significant market. The business should protect performance in these strong markets while investigating growth opportunities across the United Kingdom, France, and Germany. Further analysis of revenue, profitability, average order value, and returns by country is recommended before making regional investment decisions. 
+
+
 
 Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
 The analysis tells us the customer with the highest revenue, in our case it was Mr Maurice Shan as shown in the textbox and table.
