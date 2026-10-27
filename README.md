@@ -108,12 +108,12 @@ Accessories therefore lead order volume by a noticeable margin.
 
 
 
-**Latest monthly performance**
-The bottom KPIs indicate:
+**Latest monthly performance**  
+The bottom KPIs indicate:  
 This section provides a month-over-month performance snapshot across revenue, orders, and returns:
-•	Monthly Revenue: Revenue reached $1.83M, up from $1.77M in the previous month, representing 3.31% growth.
-•	Monthly Orders: Orders declined slightly to 2,146, compared with 2,165 in the previous month, a 0.88% decrease.
-•	Monthly Returns: Returns decreased from 169 to 166, meaning 3 fewer returns than the previous month.
+* Monthly Revenue: Revenue reached $1.83M, up from $1.77M in the previous month, representing 3.31% growth.
+* Monthly Orders: Orders declined slightly to 2,146, compared with 2,165 in the previous month, a 0.88% decrease.
+* Monthly Returns: Returns decreased from 169 to 166, meaning 3 fewer returns than the previous month.
 
 Key takeaway
 Overall, the month shows positive revenue growth despite slightly fewer orders. Revenue increased by 3.31% while order volume fell by less than 1%. Returns also declined slightly, which is favorable.
