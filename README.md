@@ -219,15 +219,10 @@ The dashboard provides a detailed view of the customer base by combining custome
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
-**What the dashboard does**
-*	Tracks overall customer performance: It shows 17.2K unique customers and approximately $1.1K revenue per customer, providing a quick view of the size and value of the customer base.
-*	Analyzes customer trends over time: The line chart can switch between Total Customers and Revenue per Customer, allowing users to see how customer activity or value changes over the selected period.
-*	Segments customers by income: The Orders by Income Level chart compares purchasing activity across Low, Average, and High income groups. The Average-income segment has the largest order volume shown at approximately 10.5K orders.
-*	Analyzes orders by occupation: The dashboard compares orders across occupation groups. Professional customers represent the largest visible segment with approximately 7.1K orders, followed by Skilled Manual at 5.3K and Management at 3.9K.
-*	Identifies high-value customers: The Top 100 Customers table ranks individual customers using orders and revenue, making it possible to identify customers who contribute the most to sales.
-*	Highlights the top customer: A dedicated section identifies the top customer by revenue and displays the customer's corresponding order count and revenue, which are 6 orders and approximately $12.4K in the current view.
-*	Supports time-based analysis: The Year control allows customer results to be filtered between 2021 and 2022.
-
 **Key Insights**
-The business generated approximately $6.55M from 7,379 unique customers, averaging about $888 per customer. Customers placed approximately 9,212 orders, or only 1.25 orders per customer, indicating that repeat purchasing may be an important growth opportunity. Customer value also appears highly concentrated, with the leading customer generating about $7K from only three orders. This suggests opportunities to improve customer retention while identifying and targeting high-value customer segments.
+* Customer base: The business has 17.2K unique customers, with average revenue per customer of approximately $1.1K.
+* Customer segments: Average-income customers generate the highest order volume at 10.5K orders, compared with 9.2K from low-income customers and 2.5K from high-income customers.
+* Occupation: Professional customers lead order volume with 7.1K orders, followed by Skilled Manual customers at 5.3K and Management customers at 3.9K.
+* Top customer: The highest-revenue customer shown generated approximately $12.4K from only 6 orders, indicating a high average order value.
+* Customer activity: The customer trend fluctuates considerably across the displayed 2021–2022 period, with several sharp peaks and declines, suggesting that customer activity is not uniform over time.
 
