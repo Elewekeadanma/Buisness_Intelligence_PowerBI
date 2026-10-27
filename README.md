@@ -19,17 +19,16 @@ The project aims to monitor key performance indicators—such as sales, revenue,
 | Power BI Service | For live publishing, sharing, and cloud-based report consumption |
 
 ________________________________________________________________________________________________________________________________________________________________________________________
-Data Source 
-: A folder of raw CSV files, which contain information about transaction
-and return records, products, customers, and sales territories.
+### Data Source 
+A folder of raw CSV files, which contain information about transaction and return records, products, customers, and sales territories.
 
-Data Model Overview
+### Data Model Overview
 The Power BI data model was built using  Snowflake Schema principles for performance and scalability:
-A star schema was created first by creating relationships between the Sales, Calendar, customer, Product and Territories tables as shown below. 
+A **Star** schema was created first by creating relationships between the Sales, Calendar, customer, Product and Territories tables as shown below. 
 
-__<img width="975" height="458" alt="image" src="https://github.com/user-attachments/assets/3574de97-8d40-4df0-8a50-830e5751818b" />
+<img width="975" height="458" alt="image" src="https://github.com/user-attachments/assets/3574de97-8d40-4df0-8a50-830e5751818b" />
 _______________________________________________________________________________________________________________________________________________________________________________________
-And then all three product tables were connected in a snowflake schema as highlighted below
+And then all three product tables were connected in a **Snowflake** schema as highlighted below
 <img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/07896820-8a76-4720-ba84-baebe137f3a1" />
 
 •	Fact Tables: Sales Data, Returns Data
