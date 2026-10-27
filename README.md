@@ -154,6 +154,9 @@ This page is a Product Detail page, set the page type to Drill through and confi
 
 ### Key performance summary
 
+<img width="579" height="179" alt="image" src="https://github.com/user-attachments/assets/682960d4-a5ee-4bf5-afc9-7e4e241ebc6b" />
+
+
 <img width="580" height="172" alt="image" src="https://github.com/user-attachments/assets/22ba4975-46ff-424d-a193-813bc14e76b2" />
 
 ### Key business insights
