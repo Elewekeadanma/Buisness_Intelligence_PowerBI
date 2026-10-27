@@ -147,7 +147,7 @@ The geographical analysis shows that order activity is concentrated primarily in
 
 
 ## Product Detail Dashboard
-This page is a Product Detail page, set the page type to Drill through and configured  drill through from Product Name. What this means is that users can right-click any instance of product name and use the Drill through option to navigate straight to the Product Detail report filtered on the product (in this case “Sport-100 Helmet, Black”)
+This page is a Product Detail page, set the page type to Drill through and configured  drill through from Product Name. What this means is that users can right-click any instance of product name and use the Drill through option to navigate straight to the Product Detail report filtered on the product (in this case “Sport-100 Helmet, Black”).
 
 <img width="804" height="509" alt="image" src="https://github.com/user-attachments/assets/8a0e8039-46ec-4012-9e88-44636778e021" />
 
