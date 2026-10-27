@@ -156,9 +156,6 @@ This page is a Product Detail page, set the page type to Drill through and confi
 
 <img width="579" height="179" alt="image" src="https://github.com/user-attachments/assets/682960d4-a5ee-4bf5-afc9-7e4e241ebc6b" />
 
-
-<img width="580" height="172" alt="image" src="https://github.com/user-attachments/assets/22ba4975-46ff-424d-a193-813bc14e76b2" />
-
 ### Key business insights
 
 **Orders are close to target, but there is still a gap.**
@@ -230,4 +227,7 @@ The dashboard provides a detailed view of the customer base by combining custome
 *	Identifies high-value customers: The Top 100 Customers table ranks individual customers using orders and revenue, making it possible to identify customers who contribute the most to sales.
 *	Highlights the top customer: A dedicated section identifies the top customer by revenue and displays the customer's corresponding order count and revenue, which are 6 orders and approximately $12.4K in the current view.
 *	Supports time-based analysis: The Year control allows customer results to be filtered between 2021 and 2022.
+
+**Key Insights**
+The business generated approximately $6.55M from 7,379 unique customers, averaging about $888 per customer. Customers placed approximately 9,212 orders, or only 1.25 orders per customer, indicating that repeat purchasing may be an important growth opportunity. Customer value also appears highly concentrated, with the leading customer generating about $7K from only three orders. This suggests opportunities to improve customer retention while identifying and targeting high-value customer segments.
 
