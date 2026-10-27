@@ -106,7 +106,7 @@ Order volume by category is:
 3.	Clothing: 7K
 Accessories therefore lead order volume by a noticeable margin.
 
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
+
 
 **Latest monthly performance**
 The bottom KPIs indicate:
@@ -126,8 +126,17 @@ Overall takeaway
 Business performance is positive, with $24.9M in revenue, $10.5M in profit, and revenue continuing to grow. Despite a slight decline in monthly order volume, monthly revenue increased 3.31%, which could indicate higher revenue per order. Returns remain relatively low overall at 2.2%, although several helmet products have return rates above 3% and could be investigated further. Accessories are the strongest category by order volume.
 
 ## The Map dashboard
+This **Map dashboard** provides a geographic view of total orders, showing how order volume is distributed across the main sales regions and countries.
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/34cef23c-271b-4586-a522-d8da68719d62" />
 
-
+**Dashboard summary**
+•	The map displays Total Orders by Country, with larger blue bubbles representing higher order volumes.
+•	Orders are shown across North America, Europe, and the Pacific region.
+•	The United States has the largest bubble, indicating the highest order volume among the countries displayed.
+•	Australia also shows a relatively high concentration of orders.
+•	Canada has a smaller order volume than the United States.
+•	In Europe, orders are distributed across the United Kingdom, France, and Germany, with relatively similar-sized bubbles.
+•	The region selector at the top allows the dashboard to be filtered by Europe, North America, or Pacific, or viewed collectively using Select all.
 
 
 
@@ -141,7 +150,7 @@ A **MAP** visual in Power BI is designed to show data in a geographic context, m
 
 
 This image shows all the geographical locations, bubble size indicating the number of orders for each region.
-<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/34cef23c-271b-4586-a522-d8da68719d62" />
+
 
 The second map visual shows Europe and countries in Europe with their corresponding total number of orders, United Kingdom having a total of 2771 orders.
 
@@ -152,6 +161,6 @@ Another visualization in Power Bi is a **GUAGE** chart. A gauge visual in Power 
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/3272da38-fc0f-4b33-94c4-d8fd628fe6f6" />
 The chart tells us that we are yet to hit our Monthly targets and Monthly Revenue for Bike Wash - Dissolver even though the Monthly Profit has been met. Using the slicer beside the guage chart, we can find out which products are hitting their targets or not. The unmet targets are shown in red while the met target is shown in black.
-
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
 
