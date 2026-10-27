@@ -65,21 +65,20 @@ ________________________________________________________________________________
 - A redundant column ProductSize was also removed.
 - A new column SKU Type was added by extracting all characters before the dash in the Product SKU column, then the SKU Type was calculated to return all characters before the second dash, instead of the first.
 - The zeros (0) in the Product Style column was replaced with “NA”.
-- 
-The Domain Name column was added by duplicating the email address column, remove all text/characters except the domain name and capitalizing.
-The following columns were added to the calendar table
+- The Domain Name column was added by duplicating the email address column, remove all text/characters except the domain name and capitalizing.
+- The following columns were added to the calendar table
 Month Name (e.g March), Month Number (e.g “1”)
 Start of Year (e.g. “1/1/2020”), Year (e.g “2020”)
-A conditional column “Quantity Type” was added in the Sales table with 2 options Single Item , Multiple Items
-A date hierarchy column was created with the hierarchy in the following order:
+- A conditional column “Quantity Type” was added in the Sales table with 2 options Single Item , Multiple Items
+- A date hierarchy column was created with the hierarchy in the following order:
 •	Start of year
 •	start of month
 •	start of week
 •	date
 
-A column “Education Category  “was created using the Switch function.
-A column SKU Category was created by returning any number of characters before the first hyphen in the Product SKU column.
-A new column “Birth Year” was created in the Customer Lookup to extract only the year from the Birthdate column.
+- A column, "Education Category" was created using the Switch function.
+- A column "SKU Category" was created by returning any number of characters before the first hyphen in the Product SKU column.
+- A column "Birth Year" was created in the Customer Lookup to extract only the year from the Birthdate column.
 
 
 
