@@ -151,10 +151,10 @@ This page is a Product Detail page, set the page type to Drill through and confi
 
 <img width="799" height="502" alt="image" src="https://github.com/user-attachments/assets/94235ca8-a07c-4651-a9c5-4f19e690a7da" />
 
-Key performance summary
-•	Monthly Orders: 202, compared with a target of 213. Orders are slightly below target by 11 orders, or about 5.2%.
-•	Monthly Revenue: $6,796, compared with a target of approximately $7.18K. Revenue is about $384 below target, roughly 5.3%.
-•	Monthly Profit: $4,367. The gauge indicates strong profit performance, although the target label shown on the visual appears inconsistent at $213, so that target should be verified.
+### Key performance summary
+* Monthly Orders: 202, compared with a target of 213. Orders are slightly below target by 11 orders, or about 5.2%.
+* Monthly Revenue: $6,796, compared with a target of approximately $7.18K. Revenue is about $384 below target, roughly 5.3%.
+* Monthly Profit: $4,367. The gauge indicates strong profit performance, although the target label shown on the visual appears inconsistent at $213, so that target should be verified.
 
 
 
