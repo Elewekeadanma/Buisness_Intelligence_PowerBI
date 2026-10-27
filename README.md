@@ -52,7 +52,10 @@ Key Columns Include:
 
 Also note that some fields containing  were hidden from report view so that I don’t make a mistake of filtering on a foreign key from a data table instead of a primary key from a lookup table.
 * From the Sales data table, I removed the customer key, order date, product key, stock date, and territory key.
-* For returns, I removed the product key, return date and territory key.
+* From the returns table, I removed the product key, return date and territory key.
+* From the product table, I removed the subcategory key.
+* From the product subcategories table, I removed the Product category key.
+
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 ### Data Cleaning and Transformation 
