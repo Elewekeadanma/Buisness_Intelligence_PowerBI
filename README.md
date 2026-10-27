@@ -87,10 +87,25 @@ The dashboard is designed into 4 tabs.
 ## Executive Dashboard  
 This dashboard page gives an executive overview of Adventure Works sales performance, combining revenue, profitability, order volume, returns, trends, product performance, and category performance.
 
-<img width="1357" height="800" alt="image" src="https://github.com/user-attachments/assets/de757577-ac54-4b19-9889-285143fc44c4" />
+<img width="1617" height="1007" alt="image" src="https://github.com/user-attachments/assets/c223dfdc-2878-4153-8ac3-3257707ffa67" />
 
+* Revenue: $24.9M
+* Total Profit: $10.5M, indicating strong profitability relative to revenue.
+* Orders: 25.2K
+* Return Rate: 2.2%
 
-A **DONUT** visual in Power BI is designed to show how a whole is divided into parts, while keeping the focus on the proportions of each category.
+Key insights
+Revenue is trending upward.
+
+The revenue trend shows overall growth from 2020 through 2022. After fluctuations during 2020 and early 2021, revenue accelerates significantly from mid-2021, reaching approximately $1.8M per month toward the end of the period.
+
+Accessories generate the most orders.
+Order volume by category is:
+1.	Accessories: 17K
+2.	Bikes: 14K
+3.	Clothing: 7K
+Accessories therefore lead order volume by a noticeable margin.
+
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
 Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
