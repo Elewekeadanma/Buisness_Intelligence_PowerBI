@@ -149,9 +149,18 @@ The geographical analysis shows that order activity is concentrated primarily in
 ## Product Detail Dashboard
 This page is a Product Detail page, set the page type to Drill through and configured  drill through from Product Name. What this means is that users can right-click any instance of product name and use the Drill through option to navigate straight to the Product Detail report filtered on the product (in this case “Sport-100 Helmet, Black”)
 
-<img width="799" height="502" alt="image" src="https://github.com/user-attachments/assets/94235ca8-a07c-4651-a9c5-4f19e690a7da" />
+<img width="804" height="509" alt="image" src="https://github.com/user-attachments/assets/8a0e8039-46ec-4012-9e88-44636778e021" />
+
 
 ### Key performance summary
+|KPI| Current | Target | Assessment
+Monthly Orders | 404 | 438 | ~92.2% of target
+Monthly Revenue | $4,067 | $4.29K | ~94.8% of target
+
+
+
+
+
 * Monthly Orders: 202, compared with a target of 213. Orders are slightly below target by 11 orders, or about 5.2%.
 * Monthly Revenue: $6,796, compared with a target of approximately $7.18K. Revenue is about $384 below target, roughly 5.3%.
 * Monthly Profit: $4,367. The gauge indicates strong profit performance, although the target label shown on the visual appears inconsistent at $213, so that target should be verified.
