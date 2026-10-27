@@ -59,8 +59,8 @@ Also note that some fields containing  were hidden from report view so that I do
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 ### Data Cleaning and Transformation 
- Column headers were promoted
- Product Key and ProductSubcategorykey were changed from number to text fields
+- Column headers were promoted
+- Product Key and ProductSubcategorykey were changed from number to text fields
  ProductCost and ProductPrice columns were changed from decimal to currencies
 
 A redundant column ProductSize was also removed
