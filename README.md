@@ -49,14 +49,15 @@ Key Columns Include:
 
   
 **Hidden keys**
-Also note that fields were hidden from report view so that I don’t make a mistake of filtering on a foreign key from a data table instead of a primary key from a lookup table.
+
+Also note that some fields containing  were hidden from report view so that I don’t make a mistake of filtering on a foreign key from a data table instead of a primary key from a lookup table.
 From the Sales data table, customer key, order date, product key, stock date, and territory key.
 For returns it'll be our product key, return date and territory key.
 For product table, it will  be the subcategory key.
 For product subcategories table, Product category key is a foreign key.
 
 ________________________________________________________________________________________________________________________________________________________________________________________
-Data Cleaning and Transformation 
+### Data Cleaning and Transformation 
 Column headers were promoted
 Product Key and ProductSubcategorykey were changed from number to text fields
 
