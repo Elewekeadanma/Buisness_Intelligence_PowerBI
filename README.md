@@ -215,24 +215,16 @@ Monitor returns alongside growth
 
 
 ## Customer Detail Dashboard
+The dashboard provides a detailed view of the customer base by combining customer counts, revenue, purchasing behavior, demographics, and individual customer performance. It can be used to identify high-value customer segments and top customers, understand which groups generate the most orders, and support more targeted sales and customer-retention strategies.
 
-
-________________________________________________________________________________________________________________________________________________________________________________________
-A **MAP** visual in Power BI is designed to show data in a geographic context, making it easy to understand how metrics vary across locations. The map visual, in this case was used to visualize data by continent and country and to compare performance across regions.
-
-
-This image shows all the geographical locations, bubble size indicating the number of orders for each region.
-
-
-The second map visual shows Europe and countries in Europe with their corresponding total number of orders, United Kingdom having a total of 2771 orders.
-
-<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/efc472fc-96ad-4205-bba7-c6441d9c3a4b" />
-
-_______________________________________________________________________________________________________________________________________________________________________________________
-Another visualization in Power Bi is a **GUAGE** chart. A gauge visual in Power BI is designed to show progress toward a target in a simple, intuitive way. It’s one of the clearest visuals for communicating performance status at a glance and it is used for displaying a single KPI (e.g., sales, revenue, profit, utilization), showing how close the current value is to a goal, highlighting whether performance is low, on track, or exceeding expectations and providing a quick, dashboard‑friendly indicator of status
-
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/3272da38-fc0f-4b33-94c4-d8fd628fe6f6" />
-The chart tells us that we are yet to hit our Monthly targets and Monthly Revenue for Bike Wash - Dissolver even though the Monthly Profit has been met. Using the slicer beside the guage chart, we can find out which products are hitting their targets or not. The unmet targets are shown in red while the met target is shown in black.
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
+**What the dashboard does**
+*	Tracks overall customer performance: It shows 17.2K unique customers and approximately $1.1K revenue per customer, providing a quick view of the size and value of the customer base.
+*	Analyzes customer trends over time: The line chart can switch between Total Customers and Revenue per Customer, allowing users to see how customer activity or value changes over the selected period.
+*	Segments customers by income: The Orders by Income Level chart compares purchasing activity across Low, Average, and High income groups. The Average-income segment has the largest order volume shown at approximately 10.5K orders.
+*	Analyzes orders by occupation: The dashboard compares orders across occupation groups. Professional customers represent the largest visible segment with approximately 7.1K orders, followed by Skilled Manual at 5.3K and Management at 3.9K.
+*	Identifies high-value customers: The Top 100 Customers table ranks individual customers using orders and revenue, making it possible to identify customers who contribute the most to sales.
+*	Highlights the top customer: A dedicated section identifies the top customer by revenue and displays the customer's corresponding order count and revenue, which are 6 orders and approximately $12.4K in the current view.
+*	Supports time-based analysis: The Year control allows customer results to be filtered between 2021 and 2022.
 
