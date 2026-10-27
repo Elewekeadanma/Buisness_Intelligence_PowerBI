@@ -130,16 +130,16 @@ This **Map dashboard** provides a geographic view of total orders, showing how o
 <img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/34cef23c-271b-4586-a522-d8da68719d62" />
 
 **Dashboard summary**
-•	The map displays Total Orders by Country, with larger blue bubbles representing higher order volumes.
-•	Orders are shown across North America, Europe, and the Pacific region.
-•	The United States has the largest bubble, indicating the highest order volume among the countries displayed.
-•	Australia also shows a relatively high concentration of orders.
-•	Canada has a smaller order volume than the United States.
-•	In Europe, orders are distributed across the United Kingdom, France, and Germany, with relatively similar-sized bubbles.
-•	The region selector at the top allows the dashboard to be filtered by Europe, North America, or Pacific, or viewed collectively using Select all.
+* The map displays Total Orders by Country, with larger blue bubbles representing higher order volumes.
+* Orders are shown across North America, Europe, and the Pacific region.
+* The United States has the largest bubble, indicating the highest order volume among the countries displayed.
+* Australia also shows a relatively high concentration of orders.
+* Canada has a smaller order volume than the United States.
+* In Europe, orders are distributed across the United Kingdom, France, and Germany, with relatively similar-sized bubbles.
+* The region selector at the top allows the dashboard to be filtered by Europe, North America, or Pacific, or viewed collectively using Select all.
 
-
-
+#### Key takeaway
+Order activity is geographically diversified, but the United States appears to be the strongest market by order volume. Australia is another significant market, while European orders are spread across the United Kingdom, France, and Germany.
 
 
 Using the donut visuals, we were able to show the composition of customers by Income level and Occupation.
