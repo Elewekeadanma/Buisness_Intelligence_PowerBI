@@ -153,6 +153,15 @@ This page is a Product Detail page, set the page type to Drill through and confi
 
 
 ### Key performance summary
+
+| KPI | Current | Target | Assessment
+|--------|------:||--------|------:|
+| Monthly Orders | 404 | 438 | ~92.2% of target
+| Power Query | Data transformation and cleaning |
+| DAX | Business logic and KPIs |
+| Power BI Service | For live publishing, sharing, and cloud-based report consumption |
+
+
 |KPI| Current | Target | Assessment
 Monthly Orders | 404 | 438 | ~92.2% of target
 Monthly Revenue | $4,067 | $4.29K | ~94.8% of target
