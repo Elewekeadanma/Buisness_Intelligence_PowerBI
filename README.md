@@ -1,6 +1,6 @@
-This is a global manufacturing company that produces cycling equipment and accessories.  
+This project shows a comprehensive Power BI dashboard developed for a fictional global manufacturing company that produces cycling equipment and accessories.  
 ## Objective
-The project aims to monitor key performance indicators—such as sales, revenue, profit, and returns—evaluate how different regions are performing, uncover trends at the product level, and pinpoint high‑value customers by leveraging data on transactions, returns, products, customers, and sales territories.
+The project aims to monitor key performance indicators, to help the management team track their KPIs, things like sales, revenue, profit and returns, compare performance across regions, analyze product-level trends, and identify high-value customers. This means that the dashboard is going to be exploratory as well as explanatory.
 
 ## Goals
 - Track KPIs
