@@ -81,7 +81,7 @@ Start of Year (e.g. “1/1/2020”), Year (e.g “2020”)
 - A column "Birth Year" was created in the Customer Lookup to extract only the year from the Birthdate column.
 
 
-## Analytical Approach  
+## ANALYTICAL APPROACH 
 The dashboard is designed into 4 tabs.
 
 ## Executive Dashboard  
