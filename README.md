@@ -108,7 +108,7 @@ Accessories therefore lead order volume by a noticeable margin.
 
 <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/8667b135-dd5d-42ad-982e-e93c536dd10d" />
 
-Latest monthly performance
+**Latest monthly performance**
 The bottom KPIs indicate:
 This section provides a month-over-month performance snapshot across revenue, orders, and returns:
 •	Monthly Revenue: Revenue reached $1.83M, up from $1.77M in the previous month, representing 3.31% growth.
