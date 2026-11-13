@@ -3,13 +3,16 @@ This project shows a comprehensive Power BI dashboard developed for a fictional 
 The project aims to monitor key performance indicators, to help the management team track their KPIs, things like sales, revenue, profit and returns, compare performance across regions, analyze product-level trends, and identify high-value customers. This means that the dashboard is going to be exploratory as well as explanatory.
 
 You can interact with the dashboard
-https://app.powerbi.com/groups/me/apps/ae768be6-2d1a-414d-a74f-eaac37fbd9b4/reports/919188d2-39dc-44f4-badf-6cb364235757/b8bbcd3faefd822660b1?ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4&experience=power-bi
 
 ## Goals
 - Track KPIs
 - Compare regional performance
 - Analyze product level trends 
 - Identify high-value customers
+
+Link to Power BI Dashboard  
+https://app.powerbi.com/groups/me/apps/ae768be6-2d1a-414d-a74f-eaac37fbd9b4/reports/919188d2-39dc-44f4-badf-6cb364235757/b8bbcd3faefd822660b1?ctid=ff0f3e3a-3e53-454f-b2b5-6c68753b8ee4&experience=power-bi
+
 
 ### Tools & Technologies
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
