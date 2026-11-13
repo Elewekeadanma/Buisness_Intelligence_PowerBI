@@ -2,6 +2,9 @@ This project shows a comprehensive Power BI dashboard developed for a fictional 
 ## Objective
 The project aims to monitor key performance indicators, to help the management team track their KPIs, things like sales, revenue, profit and returns, compare performance across regions, analyze product-level trends, and identify high-value customers. This means that the dashboard is going to be exploratory as well as explanatory.
 
+You can interact with the dashboard
+<img width="363" height="206" alt="image" src="https://github.com/user-attachments/assets/b678e152-f840-4354-95aa-83d243bef0eb" />
+
 ## Goals
 - Track KPIs
 - Compare regional performance
